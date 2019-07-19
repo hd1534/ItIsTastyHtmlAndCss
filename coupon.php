@@ -1,7 +1,7 @@
 <html>
         <head>
                 <meta http-equiv="Content-Tycontent="text/html; charseet=EUC-kr" />
-                <title>회원가입</title>
+                <title>쿠포조회</title>
 			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script> 
 			<script src="http://malsup.github.com/jquery.form.js"></script> 
 			 
